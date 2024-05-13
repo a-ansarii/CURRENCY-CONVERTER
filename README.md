@@ -49,3 +49,6 @@ We welcome contributions to enhance and improve our currency conversion tool! To
 <img src="screen-shots/currency-converter%20interface.jpeg" alt="Currency Converter Interface" width="400">
 
 <img src="screen-shots/currency-converter.jpeg" alt="Currency Converter" width="400">
+
+# Deployment
+Provide instructions on how to deploy the project to a live server.
