@@ -26,7 +26,7 @@ Our currency conversion tool integrates with the "Freecurrency API" to fetch rea
  <br>
 2.CURRENCY CONVERTER API:
 <br>
---To use this api visit https://api.freecurrencyapi.com/
+--To use this api visit https://freecurrencyapi.com/
 <br>
   -- Create your free account.
   <br>
