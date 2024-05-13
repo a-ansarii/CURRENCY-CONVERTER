@@ -41,6 +41,9 @@ Our currency conversion tool integrates with the "Freecurrency API" to fetch rea
 # How to Contribute.
 We welcome contributions to enhance and improve our currency conversion tool! To contribute, fork the repository and submit a pull request.
 
+# Deployment
+Provide instructions on how to deploy the project to a live server.
+
 ## ScreenShots of Currency Converter
 
 
@@ -50,5 +53,4 @@ We welcome contributions to enhance and improve our currency conversion tool! To
 
 <img src="screen-shots/currency-converter.jpeg" alt="Currency Converter" width="400">
 
-# Deployment
-Provide instructions on how to deploy the project to a live server.
+
