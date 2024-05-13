@@ -44,6 +44,8 @@ We welcome contributions to enhance and improve our currency conversion tool! To
 ## ScreenShots of Currency Converter
 
 
-![Currency Converter Interface](screen-shots/currency-converter%20interface.jpeg)
 
-![Currency Converter](screen-shots/currency-converter.jpeg)
+
+<img src="screen-shots/currency-converter%20interface.jpeg" alt="Currency Converter Interface" width="400">
+
+<img src="screen-shots/currency-converter.jpeg" alt="Currency Converter" width="400">
